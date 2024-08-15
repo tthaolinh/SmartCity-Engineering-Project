@@ -1,1 +1,1 @@
-# SmartCity-Engineering-Project
+# Smart City End to End Realtime Data Engineering Project
