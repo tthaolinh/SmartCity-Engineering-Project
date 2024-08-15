@@ -7,3 +7,4 @@ This project involves equipping a vehicle traveling from Central London to Birmi
 
 # Architecture
 ![diagram drawio](https://github.com/user-attachments/assets/5c24eee8-82d5-4989-b519-5d8864c90815)
+- 
